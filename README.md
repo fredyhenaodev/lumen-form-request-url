@@ -26,7 +26,7 @@ $app->register(Fredyhenaodev\Providers\FormRequestServiceProvider::class);
 
 namespace App\Http\Request;
 
-use Fredyhenaodev\RequestUrl;
+use Fredyhenaodev\Requests\FormRequestUrl;
 
 class FindUserByIdRequest extends RequestUrl
 {
