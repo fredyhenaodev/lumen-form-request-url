@@ -1,6 +1,6 @@
 <?php
 
-namespace FredyHenao\Request;
+namespace Fredyhenaodev\Requests;
 
 abstract class FormRequestUrl extends FormRequest
 {
@@ -29,7 +29,7 @@ abstract class FormRequestUrl extends FormRequest
         {
             if (!empty($this->urlParameters) && isset($this->urlParameters))
             {
-                foreach ($this->urlParameter as $param)
+                foreach ($this->urlParameters as $param)
                 {
                     $dataValidation[$param] = $this->findParam($this->route(), $param);
                 }
