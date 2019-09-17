@@ -1,6 +1,6 @@
 <?php
-namespace FredyHenao\Providers;
-use FredyHenao\Requests\FormRequestUrl;
+namespace Fredyhenaodev\Providers;
+use Fredyhenaodev\Requests\FormRequestUrl;
 use Laravel\Lumen\Http\Redirector;
 use Illuminate\Support\ServiceProvider;
 use Symfony\Component\HttpFoundation\Request;

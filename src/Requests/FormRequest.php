@@ -1,6 +1,6 @@
 <?php
 
-namespace FredyHenao\Request;
+namespace Fredyhenaodev\Request;
 
 use Illuminate\Auth\Access\AuthorizationException;
 use Illuminate\Contracts\Container\Container;

@@ -1,5 +1,5 @@
 {
-    "name": "FredyHenao/lumen-form-request-url",
+    "name": "fredyhenaodev/lumen-form-request-url",
     "type": "library",
     "description": "Laravel Form Request adaptation for Lumen framework.",
     "keywords": [
@@ -9,7 +9,7 @@
         "validation request",
         "lumen form request"
     ],
-    "homepage": "https://github.com/FredyHenao/lumen-form-request-url",
+    "homepage": "https://github.com/fredyhenaodev/lumen-form-request-url",
     "license": "MIT",
     "authors": [
         {
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FredyHenao\\": "src"
+            "Fredyhenaodev\\": "src"
         }
     },
     "autoload-dev": {
