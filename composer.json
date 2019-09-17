@@ -1,7 +1,7 @@
 {
     "name": "fredyhenaodev/lumen-form-request-url",
     "type": "library",
-    "description": "Laravel Form Request adaptation for Lumen framework.",
+    "description": "Laravel Form Request adaptation for Lumen framework and validation of the parameters that come by URL.",
     "keywords": [
         "lumen",
         "laravel",
@@ -29,6 +29,8 @@
             "Fredyhenaodev\\": "src"
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload-dev": {
         "psr-4": {
         }
@@ -40,7 +42,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0"
+            "dev-master": "1.0-dev"
         }
     },
     "config": {
