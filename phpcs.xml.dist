@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ruleset name=":package_name">
+<ruleset name="lumen-form-request-url">
     <description>The coding standard of :package_name package</description>
     <arg value="p" />
 
