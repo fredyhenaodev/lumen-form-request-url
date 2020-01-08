@@ -68,7 +68,7 @@ class FindUserByIdRequest extends RequestUrl
 
 ## Security
 
-If you discover any security related issues, please email fredyhenao45ygmail.com instead of using the issue tracker.
+If you discover any security related issues, please email fredyhenao45y@gmail.com instead of using the issue tracker.
 
 ## Credits
 
